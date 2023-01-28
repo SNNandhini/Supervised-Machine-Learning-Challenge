@@ -7,8 +7,12 @@ The following steps are performed to complete this challenge:
 ## 1)   Retrieve Data
 The data used to build the models is retrieved from Resources/lending_data.csv
 
+![image](https://user-images.githubusercontent.com/111614210/215230391-9077e1d3-9350-474b-9cee-91e19c855865.png)
+
 ## 2)   Predict Model Performance
 A prediction of which model will perform better (Logistic Regression or Random Forest Classifier) is made, before creating the models. 
+
+![image](https://user-images.githubusercontent.com/111614210/215231451-1fbac4e7-9ac0-41a0-a18f-93aff78dd5b4.png)
 
 ## 3)   Split the Data into Training and Testing Sets
 -   The features dataframe (X) is created by dropping the loan_status column.
@@ -21,6 +25,8 @@ A prediction of which model will perform better (Logistic Regression or Random F
 -   Similarly, a Random Forest Classifier is created and fit to the training data created above. The model's score is then determined by using the score function and the testing data from above.
 
 -   The scores for each model is reviewed and conclusions written.
+
+![image](https://user-images.githubusercontent.com/111614210/215231032-421fccee-5f96-4989-b7c5-644b2ea15ba2.png)
 
 ## Files Uploaded
 -   **Jupyter Notebook** - Credit Risk Evaluator.ipynb
