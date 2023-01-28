@@ -22,7 +22,11 @@ A prediction of which model will perform better (Logistic Regression or Random F
 ## 4)   Create, Fit and Compare Models
 -   A Logistic Regression model is created and fit to the training data created above. The model's score is then determined by using the score function and the testing data from above.
 
+![image](https://user-images.githubusercontent.com/111614210/215232145-eea0c922-a5eb-401f-888e-4dff5a0ec201.png)
+
 -   Similarly, a Random Forest Classifier is created and fit to the training data created above. The model's score is then determined by using the score function and the testing data from above.
+
+![image](https://user-images.githubusercontent.com/111614210/215232193-474dd6e8-4e18-4e58-8863-d7074c3c7629.png)
 
 -   The scores for each model is reviewed and conclusions written.
 
